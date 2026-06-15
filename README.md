@@ -2,7 +2,7 @@
 
 A personal travel diary built with React, TypeScript, and Tailwind CSS.
 
-
+Live site: https://24-borders.vercel.app
 
 ---
 ## Architecture
