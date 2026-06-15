@@ -55,7 +55,7 @@ A personal travel diary built with React, TypeScript, and Tailwind CSS.
 
 ```bash
 # Clone the repository
-git clone https://github.com/dianadenwik/my-travel-countries.git
+git clone  https://github.com/dianadenwik/24-borders.git
 
 # Install dependencies
 cd my-travel-countries
