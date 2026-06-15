@@ -1,0 +1,28 @@
+const myNotes: Record<string, string> = {
+  ua: "Home. The word means something different after you've left. Ukraine is sunflower fields, loud family dinners, and a stubbornness that turns into strength. No matter where I go, this place travels with me.",
+  nl: "The Netherlands has a quiet magic to it. The coastline is wide and wild, the light over the water is unlike anywhere else, and the people have a warmth that sneaks up on you. It became home faster than I expected.",
+  it: "Italy hit different. The kind of country where even a gas station espresso tastes like it was made with intention. I ate too much, walked too much, and somehow still didn't see enough.",
+  fr: "Paris is overwhelming in the best way — every street feels like a film set. But the real France is in the smaller towns, the markets, the unhurried lunches that last three hours.",
+  es: "Spain operates on its own timezone and I respect it completely. Late dinners, loud plazas, and a coastline that makes you want to cancel your flight home.",
+  de: "Germany surprised me. I expected efficiency and got efficiency — but also incredible forests, cozy Christmas markets, and a food scene nobody talks about enough.",
+  pl: "Poland felt familiar before I even arrived. Maybe it's the language, maybe it's the pierogi. Kraków especially — one of those cities that gets under your skin.",
+  gr: "Greece is mythology made real. You stand at the Acropolis and suddenly history isn't abstract anymore. Then you eat grilled octopus by the sea and forget everything else.",
+  pt: "Lisbon is the most underrated capital in Europe. Pastel de nata, fado music drifting from a tiny bar, and that golden Atlantic light. I left a little piece of my heart there.",
+  ch: "Switzerland looks like someone turned the saturation up too high. The mountains, the lakes, the air — almost unreasonably beautiful. Expensive, yes. Worth it, also yes.",
+  tr: "Istanbul is two continents in one city and you feel it in every corner. The bazaars, the mosques, the Bosphorus at sunset — sensory overload in the best possible way.",
+  eg: "Egypt is ancient and chaotic and completely alive. Standing at the pyramids at dawn, you realize how small you are in the timeline of history. Unforgettable.",
+  be: "Belgium gave me the best waffles and some of the best beer of my life. Brussels is quirky and multilingual and a little chaotic — I found it oddly charming.",
+  hu: "Budapest is dramatic in the best way. Grand architecture, thermal baths, ruin bars hidden in crumbling courtyards. A city that rewards you for getting a little lost.",
+  at: "Vienna feels like living inside a classical music piece. Elegant, composed, slightly intimidating. The coffee houses alone are worth the trip.",
+  sk: "Slovakia is quietly beautiful and criminally undervisited. Bratislava is small enough to explore in a day but warm enough to stay much longer.",
+  si: "Slovenia was a happy accident. I didn't expect much and got everything — mountains, caves, Lake Bled looking absurdly perfect in real life.",
+  rs: "Belgrade is raw energy. It doesn't try to impress you — it just is. The nightlife, the food, the Danube — a city that lives loudly and unapologetically.",
+  al: "Albania felt like Europe ten years ago — unhurried, genuine, and staggeringly beautiful. The Riviera coastline rivals anywhere I've been.",
+  mk: "North Macedonia was a wonderful surprise. Ohrid is one of the most serene places I've ever visited — a lake town that feels outside of time.",
+  ba: "Sarajevo carries its history in every stone and somehow turns it into something resilient and warm. The food, the coffee culture, the people — deeply moving.",
+  xk: "Kosovo is young, proud, and full of energy. Pristina surprised me with its street art, its cafes, and the warmth of everyone I met.",
+  lu: "Luxembourg is tiny and quietly extraordinary. More castles than you'd expect, more languages than you'd think, and a sense of calm that feels almost earned.",
+  me: "Montenegro is nature showing off. Kotor Bay at golden hour, the old town walls, the Adriatic stretching endlessly — I ran out of adjectives.",
+};
+
+export default myNotes;
